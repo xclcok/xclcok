@@ -4,7 +4,7 @@
 
 ## About Me
 
-📚 Currently pursuing my diploma in Software Engineering, I am constantly expanding my knowledge and skills in various programming languages and frameworks. I enjoy working with technologies such as React.js and React Native for front-end development, Java and Spring Boot for back-end development, Django for web development, PHP for server-side scripting, and .NET for building robust applications.
+📚 Currently pursuing my diploma in Software Engineering, I am constantly expanding my knowledge and skills in various programming languages and frameworks. I enjoy working with technologies such as React.js and React Native for front-end development, Java and Spring Boot for back-end development, Django for web development, PHP for server-side scripting, and .NET for building robust applications. Additionally, I have experience with C++, C#, C, and Python.
 
 🌟 I believe in the power of collaboration and open-source development. I actively contribute to open-source projects, where I can learn from experienced developers and make a positive impact on the community. I am always excited to work with fellow developers and contribute to projects that align with my interests.
 
